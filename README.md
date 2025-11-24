@@ -1,8 +1,3 @@
-这是去掉了 Emoji 和图标，纯粹依靠排版结构（表格、代码块、引用）来提升可读性的版本。
-
-你可以直接复制以下代码替换原文件：
-
-````markdown
 # CNN Stock Trend Prediction
 
 > **INFO 5000 (Fall 2025) - Group 7 Final Project**
