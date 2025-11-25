@@ -149,6 +149,16 @@ Main dependencies (see `cnn_env.yml` for the complete list):
 
 Original paper reference:
 ```
-> Jiang, J., Kelly, B., & Xiu, D. (2023). (Re‐) Imag (in) ing price trends. *The Journal of Finance*, 78(6), 3193-3249.
+@article{jiang2023re,
+  title={(Re-) Imag (in) ing price trends},
+  author={Jiang, Jingwen and Kelly, Bryan and Xiu, Dacheng},
+  journal={The Journal of Finance},
+  volume={78},
+  number={6},
+  pages={3193--3249},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+
 ```
 
